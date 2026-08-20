@@ -39,4 +39,5 @@ while True:
             
     if system in ["Division" ,'/' ,'%']:
         division(x,y)
-
+if __name__ == "__main__":
+    print("Calculator module executed directly.")
